@@ -46,7 +46,7 @@ do
             else
             {
                 result = numeroy / numerox;
-                Console.WriteLine($"Resultado: {numeroy} / {x} = {result}");
+                Console.WriteLine($"Resultado: {numeroy} / {numerox} = {result}");
             }
             break;
     }
